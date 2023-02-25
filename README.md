@@ -14,6 +14,7 @@ git clone https://github.com/RCRoger/animeDocker.git
 
 Ejecutar el siguiente comando:
 ```bash
+cd animeDocker
 docker-compose up -d
 ```
 
