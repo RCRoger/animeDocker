@@ -1,0 +1,51 @@
+(N) 2023-02-25T16:27:29 - qBittorrent v4.5.1 started
+(N) 2023-02-25T16:27:29 - Using config directory: /config/qBittorrent
+(N) 2023-02-25T16:27:29 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2023-02-25T16:27:29 - Peer ID: "-qB4510-"
+(I) 2023-02-25T16:27:29 - HTTP User-Agent: "qBittorrent/4.5.1"
+(I) 2023-02-25T16:27:29 - Distributed Hash Table (DHT) support: ON
+(I) 2023-02-25T16:27:29 - Local Peer Discovery support: ON
+(I) 2023-02-25T16:27:29 - Peer Exchange (PeX) support: ON
+(I) 2023-02-25T16:27:29 - Anonymous mode: OFF
+(I) 2023-02-25T16:27:29 - Encryption support: ON
+(I) 2023-02-25T16:27:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2023-02-25T16:27:29 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2023-02-25T16:27:29 - Successfully listening on IP. IP: "172.21.0.5". Port: "TCP/6881"
+(I) 2023-02-25T16:27:29 - Successfully listening on IP. IP: "172.21.0.5". Port: "UTP/6881"
+(W) 2023-02-25T16:27:29 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2023-02-25T16:27:29 - Using built-in Web UI.
+(W) 2023-02-25T16:27:29 - Couldn't load Web UI translation for selected locale (C).
+(N) 2023-02-25T16:27:29 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-02-25T16:27:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Feb 1 01:23:30 2023.
+(I) 2023-02-25T16:27:30 - Successfully updated IP geolocation database.
+(I) 2023-02-25T16:27:30 - Detected external IP. IP: "79.156.126.81"
+(N) 2023-02-25T16:27:30 - WebAPI login success. IP: ::ffff:172.21.0.3
+(N) 2023-02-25T16:27:49 - WebAPI login success. IP: ::ffff:172.21.0.1
+(N) 2023-02-25T16:28:13 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-02-25T16:28:13 - Web UI: Now listening on IP: *, port: 8080
+(N) 2023-02-25T16:30:23 - qBittorrent termination initiated
+(I) 2023-02-25T16:30:23 - UPnP/NAT-PMP support: OFF
+(N) 2023-02-25T16:30:23 - qBittorrent is now ready to exit
+(N) 2023-02-25T16:30:58 - qBittorrent v4.5.1 started
+(N) 2023-02-25T16:30:58 - Using config directory: /config/qBittorrent
+(N) 2023-02-25T16:30:58 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2023-02-25T16:30:58 - Peer ID: "-qB4510-"
+(I) 2023-02-25T16:30:58 - HTTP User-Agent: "qBittorrent/4.5.1"
+(I) 2023-02-25T16:30:58 - Distributed Hash Table (DHT) support: ON
+(I) 2023-02-25T16:30:58 - Local Peer Discovery support: ON
+(I) 2023-02-25T16:30:58 - Peer Exchange (PeX) support: ON
+(I) 2023-02-25T16:30:58 - Anonymous mode: OFF
+(I) 2023-02-25T16:30:58 - Encryption support: ON
+(I) 2023-02-25T16:30:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2023-02-25T16:30:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2023-02-25T16:30:58 - Successfully listening on IP. IP: "172.21.0.4". Port: "TCP/6881"
+(I) 2023-02-25T16:30:58 - Successfully listening on IP. IP: "172.21.0.4". Port: "UTP/6881"
+(I) 2023-02-25T16:30:58 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Feb 1 01:23:30 2023.
+(N) 2023-02-25T16:30:58 - Using built-in Web UI.
+(N) 2023-02-25T16:30:58 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2023-02-25T16:30:58 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-02-25T16:30:59 - Detected external IP. IP: "79.156.126.81"
+(N) 2023-02-25T16:30:59 - WebAPI login success. IP: ::ffff:172.21.0.3
+(N) 2023-02-25T16:31:18 - qBittorrent termination initiated
+(I) 2023-02-25T16:31:18 - UPnP/NAT-PMP support: OFF
+(N) 2023-02-25T16:31:18 - qBittorrent is now ready to exit
